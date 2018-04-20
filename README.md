@@ -24,7 +24,7 @@ The trainval annotations can be downloaded by
     $ unzip ava_trainval.zip
 
 ## Groundtruth visualization
-Data preprocessing is so important for network training. Previously I tried OpenCV, but it is challenging to extract the exact keyframe maybe due to different codec settings. Currently we extracte the video segments, keyframes using ffmpeg. We also visualize bboxes for each ketframe in folder `preproc`.
+Data preprocessing is so important for network training. Previously I tried OpenCV, but it is challenging to extract the exact keyframe maybe due to different codec settings. Currently we extract the video segments and the keyframes using ffmpeg. We also visualize the bboxes for each keyframe in folder `preproc`. Note that we only process each clip once, which is faster than other repos.
 
     $ cd ava-dataset-tool
     $ python3 extract_keyframe.py
@@ -35,5 +35,5 @@ The results look o.k., but we need futher check if the keyframes are exactly the
 <img src="https://github.com/kevinlin311tw/ava-dataset-tool/blob/master/sample_bbox.jpg", width="400">
 </p>
 
-stay tuned..
+Stay tuned..
 
