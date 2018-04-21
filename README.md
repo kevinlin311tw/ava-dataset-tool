@@ -1,7 +1,7 @@
 # ava-dataset-tool
 
 ## AVA Dataset
-The [AVA Dataset](https://research.google.com/ava/) is the newly excited dataset for action detection and localization.
+The [AVA Dataset](https://research.google.com/ava/) is a newly exciting dataset for action detection and localization.
 
 However, I just couldn't find the official toolkits for download, data preprocessing, and evaluation with standard baselines. I will put a few tools here that may be useful for future development. 
 
