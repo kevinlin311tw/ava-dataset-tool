@@ -10,13 +10,13 @@ import cv2
 import code
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--video_dir", default="./video/", help="Videos path.")
-parser.add_argument("--annot_file", default="ava_train_v2.0.csv",
+parser.add_argument("--video_dir", default="./video/trainval", help="Videos path.")
+parser.add_argument("--annot_file", default="ava_train_v2.1.csv",
                     help="Anotation file path.")
 parser.add_argument("--actionlist_file",
                     default="ava_action_list_v2.0.csv",
                     help="Action list file path.")
-parser.add_argument("--output_dir", default="./preproc", help="Output path.")
+parser.add_argument("--output_dir", default="./preproc/train", help="Output path.")
 
 FLAGS = parser.parse_args()
 

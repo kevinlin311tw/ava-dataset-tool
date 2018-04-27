@@ -1,0 +1,81 @@
+label_id,label_name,label_type
+1,bend/bow (at the waist),PERSON_MOVEMENT
+2,crawl,PERSON_MOVEMENT
+3,crouch/kneel,PERSON_MOVEMENT
+4,dance,PERSON_MOVEMENT
+5,fall down,PERSON_MOVEMENT
+6,get up,PERSON_MOVEMENT
+7,jump/leap,PERSON_MOVEMENT
+8,lie/sleep,PERSON_MOVEMENT
+9,martial art,PERSON_MOVEMENT
+10,run/jog,PERSON_MOVEMENT
+11,sit,PERSON_MOVEMENT
+12,stand,PERSON_MOVEMENT
+13,swim,PERSON_MOVEMENT
+14,walk,PERSON_MOVEMENT
+15,answer phone,OBJECT_MANIPULATION
+16,brush teeth,OBJECT_MANIPULATION
+17,carry/hold (an object),OBJECT_MANIPULATION
+18,catch (an object),OBJECT_MANIPULATION
+19,chop,OBJECT_MANIPULATION
+20,"climb (e.g., a mountain)",OBJECT_MANIPULATION
+21,clink glass,OBJECT_MANIPULATION
+22,"close (e.g., a door, a box)",OBJECT_MANIPULATION
+23,cook,OBJECT_MANIPULATION
+24,cut,OBJECT_MANIPULATION
+25,dig,OBJECT_MANIPULATION
+26,dress/put on clothing,OBJECT_MANIPULATION
+27,drink,OBJECT_MANIPULATION
+28,"drive (e.g., a car, a truck)",OBJECT_MANIPULATION
+29,eat,OBJECT_MANIPULATION
+30,enter,OBJECT_MANIPULATION
+31,exit,OBJECT_MANIPULATION
+32,extract,OBJECT_MANIPULATION
+33,fishing,OBJECT_MANIPULATION
+34,hit (an object),OBJECT_MANIPULATION
+35,kick (an object),OBJECT_MANIPULATION
+36,lift/pick up,OBJECT_MANIPULATION
+37,"listen (e.g., to music)",OBJECT_MANIPULATION
+38,"open (e.g., a window, a car door)",OBJECT_MANIPULATION
+39,paint,OBJECT_MANIPULATION
+40,play board game,OBJECT_MANIPULATION
+41,play musical instrument,OBJECT_MANIPULATION
+42,play with pets,OBJECT_MANIPULATION
+43,point to (an object),OBJECT_MANIPULATION
+44,press,OBJECT_MANIPULATION
+45,pull (an object),OBJECT_MANIPULATION
+46,push (an object),OBJECT_MANIPULATION
+47,put down,OBJECT_MANIPULATION
+48,read,OBJECT_MANIPULATION
+49,"ride (e.g., a bike, a car, a horse)",OBJECT_MANIPULATION
+50,row boat,OBJECT_MANIPULATION
+51,sail boat,OBJECT_MANIPULATION
+52,shoot,OBJECT_MANIPULATION
+53,shovel,OBJECT_MANIPULATION
+54,smoke,OBJECT_MANIPULATION
+55,stir,OBJECT_MANIPULATION
+56,take a photo,OBJECT_MANIPULATION
+57,text on/look at a cellphone,OBJECT_MANIPULATION
+58,throw,OBJECT_MANIPULATION
+59,touch (an object),OBJECT_MANIPULATION
+60,"turn (e.g., a screwdriver)",OBJECT_MANIPULATION
+61,"watch (e.g., TV)",OBJECT_MANIPULATION
+62,work on a computer,OBJECT_MANIPULATION
+63,write,OBJECT_MANIPULATION
+64,fight/hit (a person),PERSON_INTERACTION
+65,give/serve (an object) to (a person),PERSON_INTERACTION
+66,grab (a person),PERSON_INTERACTION
+67,hand clap,PERSON_INTERACTION
+68,hand shake,PERSON_INTERACTION
+69,hand wave,PERSON_INTERACTION
+70,hug (a person),PERSON_INTERACTION
+71,kick (a person),PERSON_INTERACTION
+72,kiss (a person),PERSON_INTERACTION
+73,lift (a person),PERSON_INTERACTION
+74,listen to (a person),PERSON_INTERACTION
+75,play with kids,PERSON_INTERACTION
+76,push (another person),PERSON_INTERACTION
+77,"sing to (e.g., self, a person, a group)",PERSON_INTERACTION
+78,take (an object) from (a person),PERSON_INTERACTION
+79,"talk to (e.g., self, a person, a group)",PERSON_INTERACTION
+80,watch (a person),PERSON_INTERACTION
